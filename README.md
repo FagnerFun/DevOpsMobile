@@ -1,5 +1,6 @@
-﻿# CrossPlatformADV
+﻿# INTEGRAÇÃO CONTINUA - MOBILE
  
+- Tecnologia: Xamarin Forms
 - Arquitetura: DDD
 - Integração com APP Center
 
